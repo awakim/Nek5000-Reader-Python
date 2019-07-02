@@ -187,5 +187,3 @@ def readpres(fname,header,elmap):
 
 
     return pres
-
-def gather
